@@ -333,5 +333,3 @@ plt.show()
 - Hasil terbaik diperoleh dengan **LSTM menggunakan AdamW** dan konfigurasi model yang lebih dalam.
 
 ---
-
-Catatan: Markdown tidak mendukung penyisipan gambar langsung seperti LaTeX. Untuk visualisasi (gambar hasil dan plot), Anda perlu menyisipkannya secara terpisah di platform yang mendukung (misalnya, GitHub atau Jupyter Notebook).
