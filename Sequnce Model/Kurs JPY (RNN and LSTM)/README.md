@@ -1,10 +1,9 @@
-Berikut adalah konversi dokumen LaTeX ke dalam format Markdown. Markdown tidak mendukung semua fitur LaTeX seperti tabel kompleks, gambar, atau kode dengan gaya khusus secara langsung, tetapi saya akan menyederhanakannya agar sesuai dengan kemampuan Markdown sambil mempertahankan struktur dan konten utama.
 
 ---
 
 # Prediksi Kurs Rupiah terhadap Yen menggunakan RNN dan LSTM
 
-**Penulis:** Muhammad Farhan Arya Wicaksono  
+**Author:** Muhammad Farhan Arya Wicaksono  
 **NRP:** 5054231011  
 **Laporan Tugas Mata Kuliah:** *Deep Learning*  
 
